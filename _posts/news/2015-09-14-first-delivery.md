@@ -1,19 +1,22 @@
 ---
-layout: page
-subheadline: "A Start"
-title:  "First Delivery"
-teaser: "From first purchase to arrival and then delivery the Cuski mini boos are here!"
-meta_teaser: "From first purchase to arrival and then delivery the Cuski mini boos are here!"
-breadcrumb: false
+title: First Delivery
+date: 2015-09-14 00:00:00 Z
 categories:
-   - news
+- news
 tags:
-    - blog
-    - content
-    - post
-    - post format
+- blog
+- content
+- post
+- post format
+layout: page
+subheadline: A Start
+teaser: From first purchase to arrival and then delivery the Cuski mini boos are here!
+meta_teaser: From first purchase to arrival and then delivery the Cuski mini boos
+  are here!
+breadcrumb: false
 author: Charlotte
 ---
+
 Judy and Suzy from Cuski welcomed the order and on 11th September 2015 the order was delivered.
 
 ![The first Mini Boo](/images/mini_boo.png){: width="300px"}![Boxes of them](/images/boxes_of_boos.png){: width="305px"}    

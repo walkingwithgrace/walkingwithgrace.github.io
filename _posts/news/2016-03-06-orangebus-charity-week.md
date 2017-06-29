@@ -1,19 +1,21 @@
 ---
-layout: page
-subheadline:
-title:  "Orange Bus Charity Week - #obcharity"
-teaser: "Tomorrow see the start of Orange Bus Charity Week"
-meta_teaser: "Tomorrow see the start of Orange Bus Charity Week"
-breadcrumb: false
+title: 'Orange Bus Charity Week - #obcharity'
+date: 2016-03-06 00:00:00 Z
 categories:
-   - news
+- news
 tags:
-    - blog
-    - content
-    - post
-    - post format
+- blog
+- content
+- post
+- post format
+layout: page
+subheadline: 
+teaser: Tomorrow see the start of Orange Bus Charity Week
+meta_teaser: Tomorrow see the start of Orange Bus Charity Week
+breadcrumb: false
 author: scott
 ---
+
 ![#obcharity]({{ site.urlimg }}ob-charity.jpg)
 
 When I started at [Orange Bus](http://www.orangebus.co.uk) last January my wife was already 3 months pregnant with twins, at the time and we already knew then that it was going to be a difficult pregnancy. Once our twins arrived last May I could not have asked for any more support and understanding then Orange Bus gave us.

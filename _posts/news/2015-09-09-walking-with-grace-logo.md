@@ -1,17 +1,18 @@
 ---
-layout: page
-subheadline: "Branding"
-title:  "Walking with Grace Logo"
-teaser: "Walking with Grace now has a new logo!"
-meta_teaser: "Walking with Grace now has a new logo!"
-breadcrumb: false
+title: Walking with Grace Logo
+date: 2015-09-09 00:00:00 Z
 categories:
-   - news
+- news
 tags:
-   - blog
-   - content
-   - post
-   - post format
+- blog
+- content
+- post
+- post format
+layout: page
+subheadline: Branding
+teaser: Walking with Grace now has a new logo!
+meta_teaser: Walking with Grace now has a new logo!
+breadcrumb: false
 author: Charlotte
 ---
 

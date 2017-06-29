@@ -1,25 +1,15 @@
 ---
-layout: page
-#
-# Content
-#
-subheadline: ""
-title: ""
-teaser: ""
+title: ''
+date: 2017-06-29 20:37:45.951000000 Z
 categories:
-  -
-tags:
-  -
-#
-# Styling
-#
+- 
+- ''
+layout: page
+subheadline: ''
+teaser: ''
 image:
- thumb:
-#
-# Metainformation & Customization
-#
-meta_description:
-permalink:
+  thumb: 
+meta_description: 
 ---
 
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>

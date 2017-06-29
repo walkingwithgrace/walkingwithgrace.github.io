@@ -1,16 +1,16 @@
 ---
+title: About Us
+permalink: "/about-us/"
 layout: page
 show_meta: false
-title: "About Us"
-teaser: "All you need to know about Walking with Grace."
+teaser: All you need to know about Walking with Grace.
 header:
-   image_fullwidth: "header_grace_bella_2.jpg"
+  image_fullwidth: header_grace_bella_2.jpg
 image:
-   title: "grace_and_her_boo.jpg"
-   caption: "Grace and her boo"
-    
-permalink: "/about-us/"
+  title: grace_and_her_boo.jpg
+  caption: Grace and her boo
 ---
+
 Grace's Story
 =============
 

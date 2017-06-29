@@ -1,10 +1,11 @@
 ---
-layout: page
-title: "Contact Us"
-meta_title: "Contact and use our contact form"
-teaser: "Want to get in touch with Walking with Grace? Use the contact form."
+title: Contact Us
 permalink: "/contact/"
+layout: page
+meta_title: Contact and use our contact form
+teaser: Want to get in touch with Walking with Grace? Use the contact form.
 ---
+
 <form action="http://formspree.io/info@walkingwithgrace.org.uk" method="post">
   <input type="text" name="name" placeholder="Your Name">
   <input type="email" name="_replyto" placeholder="Your Email">

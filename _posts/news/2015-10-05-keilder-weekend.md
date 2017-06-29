@@ -1,19 +1,21 @@
 ---
-layout: page
-subheadline: "Running and Riding in Northumberland"
-title:  "Kielder Weekend"
-teaser: "Raising money the hard way Kielder Run-Bike-Run"
-meta_teaser: "Raising money the hard way Kielder Run-Bike-Run"
-breadcrumb: false
+title: Kielder Weekend
+date: 2015-10-05 00:00:00 Z
 categories:
-   - news
+- news
 tags:
-   - blog
-   - content
-   - post
-   - post format
+- blog
+- content
+- post
+- post format
+layout: page
+subheadline: Running and Riding in Northumberland
+teaser: Raising money the hard way Kielder Run-Bike-Run
+meta_teaser: Raising money the hard way Kielder Run-Bike-Run
+breadcrumb: false
 author: Charlotte
 ---
+
 So the event of the year has arrived, set off at 10am to get up to Kielder in time to get the bike to the correct place and to the start line. And always time for a pre run photo
 
 ![Pre Race](/images/pre-race.jpg){: width="300px"}
